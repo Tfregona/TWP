@@ -22,7 +22,7 @@ Display all the notes created by categories
 
 ### Create a category form
 
-Form for posting a category 
+Form for updating a category 
 
 <p align="center">
   <img src=".github/twp2.jpg" width="90%;" />
