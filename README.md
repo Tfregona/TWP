@@ -1,24 +1,46 @@
-# mwwm_twp
+# twp 
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run the web app
 ```
 npm run serve
 ```
+## Web App Preview
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Home page
 
-### Lints and fixes files
-```
-npm run lint
-```
+Display all the notes created
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center">
+  <img src=".github/twp1.jpg" width="90%;" />
+</p>
+
+### Create page
+
+Form for posting a note 
+
+<p align="center">
+  <img src=".github/twp2.jpg" width="90%;" />
+</p>
+
+### Dynamic page
+
+Display the note clicked in bigger with two options :
+- Update this note
+- Delete this note
+
+<p align="center">
+  <img src=".github/twp3.jpg" width="90%;" />
+</p>
+
+### Update a note page
+
+Form with actual values in placeholder
+
+<p align="center">
+  <img src=".github/twp4.jpg" width="90%;" />
+</p>
