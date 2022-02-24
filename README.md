@@ -9,6 +9,7 @@ npm install
 ```
 npm run serve
 ```
+
 ## Web App Preview
 
 ### Home page
