@@ -47,6 +47,5 @@ Form with actual values in placeholder
 </p>
 
 ## Authors
-- [DIOP Doudou](https://github.com/Douzdiop)
-- [FREGONA Tristan](https://github.com/Tfregona)
 - [SULON Adrien](https://github.com/asulon1)
+- [FREGONA Tristan](https://github.com/Tfregona)
